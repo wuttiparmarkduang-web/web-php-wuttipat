@@ -1,2 +1,3 @@
-# web-php-wuttipat
-web php project 
+# wuttipat markduang
+* 69309010019
+* เทคโนโลยีสารสนเทศ
